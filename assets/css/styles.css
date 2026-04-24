@@ -1,7 +1,14 @@
 body{
     color: red;
     font-size: 5rem;
+
+    h1{
+        color: blue;
+        font-size: smaller;
+        
+    }
 }
+
 
 .btn{
     color: white;
