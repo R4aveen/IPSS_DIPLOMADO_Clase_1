@@ -2,3 +2,17 @@ body{
     color: red;
     font-size: 5rem;
 }
+
+.btn{
+    color: white;
+    background-color: black;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    color: rgb(102, 102, 185);
+    background-color: lightgray;
+    cursor: pointer;
+    font-style: italic;
+}
